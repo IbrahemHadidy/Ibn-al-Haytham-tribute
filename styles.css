@@ -1,0 +1,73 @@
+body {
+  background-color: #f4f1e9;
+  color: #452c28;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#title {
+  color: #452c28;
+}
+
+#img-div {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #452c28;
+}
+
+#img-caption {
+  font-style: italic;
+  color: #452c28;
+}
+
+#tribute-info {
+  margin-top: 20px;
+}
+
+.quote {
+  background-color: #e0d6cc;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+#tribute-link {
+  color: #5e4c47;
+}
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.align-mid {
+  text-align: center;
+}
+
+.long-title {
+  margin-top: -5px;
+  font-size: 17px;
+}
